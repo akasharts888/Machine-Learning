@@ -1,0 +1,7 @@
+langraph-swarm
+langraph
+langraph-supervisor
+langchain
+langchain-core
+langchain-community
+langchain-groq
